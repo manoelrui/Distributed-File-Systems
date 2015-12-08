@@ -4,5 +4,5 @@ This repository group all projects about distributed file system made by undergr
 
 - Fernando Lima: [https://github.com/fernandodsl/file_service](https://github.com/fernandodsl/file_service)
 - Denis Cavalcante: [https://github.com/dencaval/sd_class](https://github.com/dencaval/sd_class)
-- Lucas Falcão: [https://github.com/falquinho/TrabalhoSistemasDistribuidos/tree/master](https://github.com/falquinho/TrabalhoSistemasDistribuidos/tree/master)
+- Lucas Falcão: [https://github.com/falquinho/TrabalhoSistemasDistribuidos](https://github.com/falquinho/TrabalhoSistemasDistribuidos)
 - Inaciane Monteiro: [https://github.com/inafalcao/distributed-systems](https://github.com/inafalcao/distributed-systems)
