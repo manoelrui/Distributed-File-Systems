@@ -1,4 +1,4 @@
-## Distributed File Systems
+## Distributed Systems 2015.2
 
 This repository group all projects about distributed file system made by undergraduate students of discipline of Distributed Systems of Federal University of Ceará (UFC). The final project was a implementation of a distributed file system with replication and fault tolerant. The name of authors and its following subrepositories are listed below:
 
