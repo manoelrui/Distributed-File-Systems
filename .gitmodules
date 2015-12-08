@@ -1,0 +1,12 @@
+[submodule "file_service"]
+	path = file_service
+	url = https://github.com/fernandodsl/file_service
+[submodule "sd_class"]
+	path = sd_class
+	url = https://github.com/dencaval/sd_class
+[submodule "TrabalhoSistemasDistribuidos"]
+	path = TrabalhoSistemasDistribuidos
+	url = https://github.com/falquinho/TrabalhoSistemasDistribuidos.git
+[submodule "distributed-systems"]
+	path = distributed-systems
+	url = https://github.com/inafalcao/distributed-systems.git
