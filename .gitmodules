@@ -10,3 +10,6 @@
 [submodule "distributed-systems"]
 	path = distributed-systems
 	url = https://github.com/inafalcao/distributed-systems.git
+[submodule "Distributed-File-Systems"]
+	path = Distributed-File-Systems
+	url = https://github.com/ufc-ck0154-2015/Distributed-File-Systems.git
